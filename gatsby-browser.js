@@ -5,3 +5,7 @@
  */
 
 // You can delete this file if you're not using it
+
+export const onClientEntry = () => {
+  console.log("We've started!")
+}
